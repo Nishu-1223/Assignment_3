@@ -10,7 +10,5 @@ def factorial_num(num):
 
 num=int(input("Enter a number: "))
 factorial_num(num)
-
 print(f"Factorial of {num} is: {factorial_num(num)}")
-
 
